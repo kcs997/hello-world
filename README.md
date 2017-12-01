@@ -1,2 +1,8 @@
 # hello-world
-place to store ideas, resources, sharing and discussions
+
+space to store ideas, resources, sharing and discussions
+
+hi. 
+kaley here. 
+new to github. 
+figuring out how it works.
